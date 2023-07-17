@@ -1,7 +1,9 @@
+import PrimeiraPagina from "@/components/basicos/Primeiro";
+
 export default function Home() {
   return (
     <div>
-      <h1>Principal</h1>
+      <PrimeiraPagina />
     </div>
   )
 }
